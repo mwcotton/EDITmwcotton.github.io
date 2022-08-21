@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.maths.ox.ac.uk/'>Mathematical Institute</a>. University of Oxford.
+subtitle: <a href='https://www.maths.ox.ac.uk/people/matthew.cotton'>Mathematical Institute</a>. University of Oxford.
 
 profile:
   align: right
