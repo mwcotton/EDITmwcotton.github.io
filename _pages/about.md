@@ -15,9 +15,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a DPhil candidate interested in the organisation and control of living systems.
+I am a researcher interested in the organisation and control of living systems.
 
-Currently, my research focuses on theoretical modelling of biological membranes and I am supervised by [Prof Alain Goriely](https://www.maths.ox.ac.uk/people/alain.goriely) and [Prof Ramin Golestanian](https://www.physics.ox.ac.uk/our-people/golestanian). I am also grateful to be part of the [Interdisciplinary Biosciences DTP](https://www.biodtp.ox.ac.uk/) and the [Department for Living Matter Physics](https://www.ds.mpg.de/lmp) at MPI-DS, Göttingen.
+My PhD was supervised by [Prof Alain Goriely](https://www.maths.ox.ac.uk/people/alain.goriely) and [Prof Ramin Golestanian](https://www.physics.ox.ac.uk/our-people/golestanian). I was also grateful to be part of the [Interdisciplinary Biosciences DTP](https://www.biodtp.ox.ac.uk/) and the [Department for Living Matter Physics](https://www.ds.mpg.de/lmp) at MPI-DS, Göttingen.
 <!-- G&ouml;ttingen.  -->
 
-Some more information and external links are below and you can follow me on Twitter [@matthewwcotton](https://twitter.com/matthewwcotton) for updates. Please email me (cotton [at] maths [dot] ox [dot] ac [dot] uk) to get in touch.
+Some more information and external links are below and you can follow me on Twitter [@matthewwcotton](https://twitter.com/matthewwcotton) for updates. Please email me (mwc38 [at] cam [dot] ac [dot] uk) to get in touch.
